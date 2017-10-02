@@ -1,4 +1,4 @@
-# Hello world 
+ - så dem linker vi til # Hello world 
 ## I'm ready to learn
 We are IKON
 1. Henning
@@ -8,4 +8,5 @@ We are IKON
 1. Pernille
 
 vi er her alle sammen 
-# på nær to
+# vi bygger et sandslot [skovl&spand](skovl.md)
+og [Annexbryggeriet](www.annexbryggeriet.dk) er også med
