@@ -1,5 +1,5 @@
 # Hello world 
-## I'm are ready to learn
+## I'm ready to learn
 We are IKON
 1. Henning
 1. Andrew
